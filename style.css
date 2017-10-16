@@ -1,0 +1,38 @@
+body {
+  background-image: url('http://bigthinkingapplied.com/content/images/2014/11/wiki-globe-red.png');
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+    background-position: 100% -90%;
+  font-family: times, times new roman, georgia;
+}
+
+h1 {
+ font-size: 90px;
+  color: black;
+}
+#redw {
+  color: red;
+}
+
+#search-bar {
+ /* width: 50vw;
+  height: 40px;*/
+  padding: 40px;
+  font-size: 30px;
+}
+#search {
+  margin-top: 10px;
+}
+ul {
+  background-color: rgba(255, 255, 255, .8);
+  font-size: 20px;
+}
+ul li {
+ list-style-type: none;
+  border: solid 2px black;
+  padding: 10px;
+  margin-left: -40px;
+}
+li h4 {
+  font-size: 20px;
+}
